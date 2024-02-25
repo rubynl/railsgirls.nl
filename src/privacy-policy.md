@@ -4,7 +4,7 @@ title: "Privacy Policy"
 description: "The Rails Girls The Netherlands Privacy Policy. This policy applies to all Rails Girls The Netherlands websites."
 ---
 
-Last updated at: 2023-04-01
+Last updated at: 2024-02-25
 
 This Privacy Policy describes how and why the Rails Girls The Netherlands organizers ([Ruby NL](https://rubynl.org)) may collect, store, use and/or share your information when you use Rails Girls The Netherlands event websites.
 
@@ -22,6 +22,8 @@ The information we collect, if submitted:
 - Food limitations, allergies, optional
 - T-shirt size, optional
 - Opt-in for childcare services, optional
+- Bank account number, collected as part of the sign up fee
+- Bank account name, collected as part of the sign up fee
 - Contact information for waiting list, optional
 - Contact information for future information, optional
 - Any other information you shared with us, optional
@@ -56,6 +58,8 @@ During the event we will take pictures of the people present at the workshop. Th
 
 After the event we may also reach out with a feedback form. This information will be collected anonymously.
 
+Your bank account information will be stored to verify your sign up, and be used to transfer back the sign up fee when you attended the event.
+
 Your information will not be shared with partners of the event.
 
 ## Your rights
@@ -85,6 +89,8 @@ To organize Rails Girls Netherlands events, we use third-party services. Listed 
     - Our websites are hosted by GitHub using GitHub pages.
 - Plausible
     - We track some basic page view analytics using Plausible, a privacy-friendly analytics service. No cookies are set by this service.
+- Tikkie
+    - We use Tikkie to receive the sign up fee from participants via bank transfer.
 
 ## Links to other sites
 
